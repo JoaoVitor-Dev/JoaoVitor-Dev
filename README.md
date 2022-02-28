@@ -1,8 +1,4 @@
 ## BONSOIR!
-
-- Atualmente atuando em Testes de Softwares de Gestão Empresarial.
-- Estudando Desenvolvimento Web
-- Front-End
 ## 
 <div align="center">
   <a href="https://github.com/JoaoVitor-Dev">
@@ -21,9 +17,6 @@
   <img align="center" alt="Jv-SQL" height="30" width="40"src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img align="center" alt="Jv-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="center" alt="Jv-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  
-  
-
-  
+  </div>
   
   
