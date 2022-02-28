@@ -3,6 +3,12 @@
 - Atualmente atuando em Testes de Softwares de Gestão Empresarial.
 - Estudando Desenvolvimento Web
 - Front-End
+## 
+<div align="center">
+  <a href="https://github.com/JoaoVitor-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## STACKS:
 <div style="display: inline_block"><br>
@@ -17,10 +23,7 @@
   <img align="center" alt="Jv-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   
   
-## 
-<div align="center">
-  <a href="https://github.com/JoaoVitor-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+  
+  
   
