@@ -1,4 +1,4 @@
-## Hi there, I'm João Vitor de Sousa 👨🏻‍💻
+## Hi there, I'm João Vitor de Sousa
 
 ### I'm a Software Developer!
 <div>
